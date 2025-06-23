@@ -1,0 +1,6 @@
+[LOGIN]
+email = marcomch@icloud.com
+password = Funpeople51
+
+[AJUSTES]
+valor_entrada = 1
